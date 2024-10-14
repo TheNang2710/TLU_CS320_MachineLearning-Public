@@ -1,1 +1,1 @@
-# TLU_CSE320_MachineLearning-Public
+# TLU_CS320_MachineLearning-Public
